@@ -235,6 +235,11 @@ select {
   /* ------------------- */
 /* Compontents         */
 /* ------------------- */
+.top-ads {
+    width: 100%;
+    height: 80px;
+    background: orange;
+}
 
 .bg-marble {
     background-image: url(./images/marble.jpg);
@@ -411,8 +416,8 @@ select {
             display: block;
             position: absolute;
             z-index: 2000;
-            right: 1rem;
-            top: 2rem;
+            right: 2rem;
+            top: 9rem;
             background: transparent;
             background-image: url(./images/menu-gif.gif);
             background-repeat: no-repeat;
@@ -552,4 +557,3 @@ select {
         background-image: url(./images/kitchenpic005.jpeg);
     }
   } 
-

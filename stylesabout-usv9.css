@@ -417,7 +417,7 @@ select {
             position: absolute;
             z-index: 2000;
             right: 2rem;
-            top: 9rem;
+            top: 7rem;
             background: transparent;
             background-image: url(./images/menu-gif.gif);
             background-repeat: no-repeat;

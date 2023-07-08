@@ -471,6 +471,8 @@ body {
 /* home */
 .home {
   background-image: url(images/kitchenpic005.jpeg);
+  align-content: center;  
+  text-align: center;
 }
 
 @media (min-width: 35rem) {

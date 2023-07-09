@@ -293,8 +293,11 @@
     }
   
     .sub-top-small-header {
-      height: 50vh;
+      height: 50px;
       width: 100%;
+      background: rebeccapurple;
+      text-align: center;
+}
     }
   
     img {

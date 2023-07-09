@@ -198,7 +198,10 @@
     background: linear-gradient(lightgray,gray, darkgray);
     height: 100vh;
   }
-  
+
+  .contact-us {
+      text-align: center;
+  }
   /*----------Nav-start------------------------*/
  
   .sub-sub-header {

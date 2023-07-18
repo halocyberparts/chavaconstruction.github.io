@@ -71,7 +71,7 @@ body {
   /* make images easier to work */
 img,
 picutre {
-  max-width: 30%;
+  max-width: 10%;
   display: block;
   margin: auto;
 }

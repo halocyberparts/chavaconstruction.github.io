@@ -552,7 +552,7 @@
     background: #a775f1;
     display: grid;
     align-items: center;
-    font-family: cursive;
+    font-family: auto;
 }
 
   /*-------top-small-header-end------*/
@@ -575,8 +575,11 @@
    }
 
    h1 {
-    font-family: seif;
-   }
+    font-family: inherit;
+    -webkit-text-stroke: 2px lightseagreen;
+    color: black;
+    font-size: xxx-large;
+}
 
    h4 {
     font-family: sans-seif;

@@ -369,9 +369,6 @@
     }
   }
   
-  
-  
-  
   .sub-title {
   text-align: center;
   margin-left: 570px;
@@ -380,7 +377,10 @@
   }
   
   .sub-title h2 {
-  font-family: 'Zen Dots';
+    font-family: 'Zen Dots';
+    -webkit-text-stroke: 2px whitesmoke;
+    color: black;
+    font-size: xxx-large;
   }
   
   /*------------------------------------slider-----------------------------*/

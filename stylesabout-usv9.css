@@ -71,11 +71,11 @@ body {
   /* make images easier to work */
 img,
 picutre {
-  max-width: 10%;
+  max-width: 18%;
   display: block;
   margin: auto;
-  position: relative; 
-  bottom: 228px;
+  position: relative;
+  bottom: 108px;
 }
 
 /* make form Elements easier to work */
@@ -185,7 +185,12 @@ select {
   
   /* typography */
 
-.ff-serif { font-family: var(--ff-serif); } 
+.ff-serif { 
+  font-family: var(--ff-serif);
+  -webkit-text-stroke: 2px whitesmoke;
+  font-weight: 600;
+}
+
 .ff-sans-cond { font-family: var(--ff-sans-cond); } 
 .ff-sans-normal { font-family: var(--ff-sans-normal); } 
 
@@ -242,52 +247,10 @@ select {
     height: 100px;
     background: orange;
 }
+  
 
-.bg-marble {
-    background-image: url(./images/marble.jpg);
-  }
   
-  .large-button {
-    font-size: 2rem;
-    position: relative;
-    z-index: 1;
-    display: inline-grid;
-    place-items: center;
-    padding: 0 2em;
-    border-radius: 50%;
-    aspect-ratio: 1;
-    text-decoration: none;
-  }
-  
-  .large-button::after {
-    content: '';
-    position: absolute;
-    z-index: -1;
-    width: 100%;
-    height: 100%;
-    background: hsl( var(--clr-white) / .1);
-    border-radius: 50%;
-    opacity: 0;
-    transition: opacity 500ms linear, transform 750ms ease-in-out;
-  }
-  
-  .large-button:hover::after,
-  .large-button:focus::after {
-    opacity: 1;
-    transform: scale(1.5);
-  }
-  
-  /* primary-header */
-  
-  .logo {
-    margin: 1.5rem clamp(1.5rem, 5vw, 3.5rem);
-  }
-  
-  .primary-header {
-    justify-content: space-between;
-    align-items: center;
-  }
-  
+/*
 .primary-navigation {
   --gap: clamp(1.5rem, 5vw, 3.5rem);
   --underline-gap: 2rem;
@@ -307,11 +270,17 @@ select {
     font-weight: 700;
     margin-right: .5em;
   }
-  
+  */
+
   .mobile-nav-toggle {
     display: none;
   }
   
+  .video-about-us {
+    width: 800px;
+    height: 700px;
+  }
+
   @media (min-width: 45em) {
     :root {
         /* font-sizes */
@@ -390,7 +359,7 @@ select {
     white-space: nowrap; 
     border: 0;
     }
-
+/*-----------1st mobile @media modify ------------------*/
     @media (max-width: 35rem) {
         .primary-navigation {
             --underline-gap: .5rem;
@@ -419,12 +388,12 @@ select {
             position: absolute;
             z-index: 2000;
             right: 2rem;
-            top: 7rem;
+            top: 9rem;
             background: transparent;
             background-image: url(./images/menu-gif.gif);
             background-repeat: no-repeat;
             background-position: center;
-            width: 1.5rem;
+            width: 1.8rem;
             aspect-ratio: 1;
             border: 0;
         }
@@ -438,9 +407,14 @@ select {
             outline-offset: 5px;
         }
         
+        .video-about-us {
+          width: 350px;
+          height: 350px;
+        }
       }
       
       @media (min-width: 35em) {
+        
         .primary-navigation {
             padding-inline: clamp(1rem, 7vw, 2rem);
         }

@@ -140,6 +140,7 @@
     font-weight: bold;
     text-align: left;
     font-family: serif;
+    -webkit-text-stroke: 2px whitesmoke;
   }
   
   nav ul {

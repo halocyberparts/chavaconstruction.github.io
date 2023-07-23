@@ -363,10 +363,12 @@
   
   @media (min-width: 280px) {
     label.logo {
-      text-align: center;
+      display: block;
+      font-size: 72px;  
     }
+      
     nav {
-      height: 100px;
+      height: 120px;
     }
   }
   

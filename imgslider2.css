@@ -155,15 +155,15 @@
   }
   
   nav ul li a {
-    color: darkblue;
+    color: black;
     font-size: 18px;
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: serif;
     text-decoration: none;
-    font-weight: 600;
-  }
+    background: white;
+}
   
   a.active,a:hover {
     background: darkgray;

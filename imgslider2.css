@@ -343,10 +343,10 @@
   /*------------------------------- @media for ipad air 820px X 1180px ----------------------------------------*/
   @media (max-width: 820px) {
     img {
-        width: 548px;
-        height: 300px;
-        justify-items: center;
-        margin-left: 48px;
+    width: 590px;
+    height: 360px;
+    justify-items: center;
+    margin-left: 38px;
     }
 
     .slider-container {

@@ -238,9 +238,10 @@
     color: white;
     justify-content: space-between;
     display: block;
-    margin-top: auto;
+    margin-top: 7px;
     text-decoration: none;
     font-size: 12px;
+    font-family: 'Zen Dots';
   }
   /*-------------------------@medias--------------*/
   @media (min-width: 400px) {

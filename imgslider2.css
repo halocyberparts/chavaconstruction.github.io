@@ -167,10 +167,10 @@
   
   a.active,a:hover {
     background: darkgray;
-    transition: .3s;
+    transition: .5s;
     color: white;
   }
-  
+
   .checkbtn {
     font-size: 30px;
     color: black;

@@ -304,8 +304,9 @@
   }
   
   nav ul li a {
-    font-size: 20px;
+    font-size: 25px;
     background: #40D3DC;
+    color: indigo;
   }
   
   a:hover,a.active {

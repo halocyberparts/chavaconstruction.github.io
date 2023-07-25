@@ -294,6 +294,7 @@
     text-align: center;
     transition: all .5s;
     z-index: 1;
+    border-radius: 0 19px 19px 0px;  
   }
   
   nav ul li {

@@ -442,11 +442,11 @@ select {
        nav {
            order: 2;
        }
-       
+       /*-------
        .primary-navigation {
            margin-block: 2rem;
        } 
-     
+     ------------*/
        img,
        picutre {
            max-width: 8%;

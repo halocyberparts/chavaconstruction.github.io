@@ -163,7 +163,15 @@
     font-family: serif;
     text-decoration: none;
     background: white;
-}
+  }
+
+ .btn:hover, .btn:focus, .btn:active {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color: white;
+  }
+   
   a.active,a:hover {
     background: darkgray;
     transition: .5s;

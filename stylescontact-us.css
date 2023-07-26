@@ -569,9 +569,9 @@
   }
   
   .content {
-    height: 120vh;
+    height: 180vh;
     width: 100%;
-    background: linear-gradient(black, darkgray);
+    background: linear-gradient(black, orange);
    }
 
    h1 {

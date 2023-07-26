@@ -313,12 +313,12 @@
   /*-----label----*/
   label.logo {
     color:  midnightblue;
-    font-size: 65px;
+    font-size: 85px;
     line-height: 120px;
     padding: 0 80px;
     font-weight: bold;
     text-align: left;
-    font-family: 'Acme', sans-serif;
+    font-family: 'Acme', serif;
   }
   
   nav ul {

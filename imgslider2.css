@@ -243,12 +243,6 @@
     }
   }
 
-  @media (max-width: 400px) {
-    .sub-menu {
-      display: none;
-    }
-  }
-
   @media (max-width: 653px) {
     label.logo {
         font-size: 40px;

@@ -231,25 +231,7 @@
     margin: auto;
   }
  
-      .sub-menu-2 {
-        width: 100%;
-        height: 35px;
-        background: #2c3e50;
-        border-bottom: white 2px solid;
-        display: flex;
-        justify-content: space-between;
-        font-family: 'Zen Dots';  
-  }
-  
-    .sub-menu-2 a {
-    color: white;
-    justify-content: space-between;
-    display: block;
-    margin-top: 7px;
-    text-decoration: none;
-    font-size: 12px;
-    font-family: 'Zen Dots';
-  }
+      
   /*-------------------------@medias--------------*/
   @media (min-width: 400px) {
     .sub-menu-1 {

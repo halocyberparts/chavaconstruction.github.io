@@ -354,7 +354,7 @@
     @media (orientation: landscape) and (max-width: 820px) {
         img {
             display: flex;
-            margin-left: 80px;
+            margin-left: 38px;
       }
     }
 

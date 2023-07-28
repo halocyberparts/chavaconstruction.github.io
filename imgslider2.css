@@ -563,6 +563,47 @@
   float: right;
 }
 
+  /* kitcehen */
+.kit {
+  background: ;
+  background: linear-gradient(lightgreen,forestgreen, yellow);
+}
+
+.kit .sub-menu {
+  float: left;
+}
+
+.kit .sub-menu-1 {
+  float: right;
+}
+
+  /* kitcehen */
+.kit {
+  background: ;
+  background: linear-gradient(lightgreen,forestgreen, yellow);
+}
+
+.kit .sub-menu {
+  float: left;
+}
+
+.kit .sub-menu-1 {
+  float: right;
+}
+
+  /* kitcehen */
+.kit {
+  background: ;
+  background: linear-gradient(lightgreen,forestgreen, yellow);
+}
+
+.kit .sub-menu {
+  float: left;
+}
+
+.kit .sub-menu-1 {
+  float: right;
+}
 @media (min-width: 35rem) {
   .home {
       background-position: center center;

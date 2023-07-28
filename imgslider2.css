@@ -551,7 +551,6 @@
  
   /* kitcehen */
 .kit {
-  background: ;
   background: linear-gradient(lightgreen,forestgreen, yellow);
 }
 
@@ -563,47 +562,89 @@
   float: right;
 }
 
-  /* kitcehen */
-.kit {
-  background: ;
-  background: linear-gradient(lightgreen,forestgreen, yellow);
+  /* Restroom and Baths */
+.bat {
+  background: linear-gradient(lighblue, orange, yellow);
 }
 
-.kit .sub-menu {
+.bat .sub-menu {
   float: left;
 }
 
-.kit .sub-menu-1 {
+.bat .sub-menu-1 {
   float: right;
 }
 
-  /* kitcehen */
-.kit {
+  /* Custom */
+.cust {
   background: ;
-  background: linear-gradient(lightgreen,forestgreen, yellow);
+  background: linear-gradient(dodgerblue, skiblue, yellow);
 }
 
-.kit .sub-menu {
+.cust .sub-menu {
   float: left;
 }
 
-.kit .sub-menu-1 {
+.cust .sub-menu-1 {
   float: right;
 }
 
-  /* kitcehen */
-.kit {
+  /* Electricity */
+.elec {
   background: ;
-  background: linear-gradient(lightgreen,forestgreen, yellow);
+  background: linear-gradient(lightred, indigo, yellow);
 }
 
-.kit .sub-menu {
+.elec .sub-menu {
   float: left;
 }
 
-.kit .sub-menu-1 {
+.elec .sub-menu-1 {
   float: right;
 }
+
+  /* Flooring */
+.flo {
+  background: ;
+  background: linear-gradient(lightyello,forestgreen, red);
+}
+
+.flo .sub-menu {
+  float: left;
+}
+
+.flo .sub-menu-1 {
+  float: right;
+}
+
+  /* Roofing */
+.rof {
+  background: ;
+  background: linear-gradient(agua,forestgreen, oranged);
+}
+
+.rof .sub-menu {
+  float: left;
+}
+
+.rof .sub-menu-1 {
+  float: right;
+}
+    
+  /* Windows and Doors */
+.win {
+  background: ;
+  background: linear-gradient(violet,forestgreen, green);
+}
+
+.win .sub-menu {
+  float: left;
+}
+
+.win .sub-menu-1 {
+  float: right;
+}
+
 @media (min-width: 35rem) {
   .home {
       background-position: center center;

@@ -563,7 +563,7 @@
    
   /* kitcehen */
 .kit {
-  background: linear-gradient(lightgray,forestgreen, yellow);
+  background: linear-gradient(forestgreen, yellow, forestgreen);
 }
 
 .kit .sub-menu {

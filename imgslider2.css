@@ -194,7 +194,15 @@
   #check {
     display: none;
   }
-  
+
+   .bottom-sub-menu {
+    margin-bottom:25px;
+  }
+
+   .master-nav-row {
+    border-bottom: solid 2px white;
+    height: 140px;
+        
   .sub-menu {
     width: 80%;
     height: 35px;

@@ -451,6 +451,13 @@
   /*------------------------------- @media for 667px SE iphone12 ---------------------------------------*/
 
 
+  /*------------------------------- @media portrait 820px-----------------*/
+  @media (orientation: portrait) and (max-width: 820px) {
+   body {
+    width: 100%;
+    height: auto;
+  }
+}
     /*------------------------------- @media Landscape 820px-----------------*/
     @media (orientation: landscape) and (max-width: 820px) {
       img {

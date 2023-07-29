@@ -342,9 +342,12 @@
 
   @media (max-width: 653px) {
     label.logo {
-        font-size: 40px;
-        padding-left: 20px;
-        color: deepskyblue;
+    font-size: 75px;
+    padding-left: 18px;
+    color: deepskyblue;
+    bottom: 100px;
+    position: relative;
+}
     }
   
     #nodisplay {

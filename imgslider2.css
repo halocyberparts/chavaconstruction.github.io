@@ -126,7 +126,11 @@
     width: 100%;
     background: pink;
   }
-  
+
+  i.material-icons.\.icon-2 {
+    font-size: 44px;
+  }
+
   nav {
     background: none;
     height: 100px;

@@ -572,7 +572,20 @@
     
   }
    
-  /* kitcehen */
+  /* Roof & Patiio */
+.rof {
+  background: linear-gradient(forestgreen, yellow, forestgreen);
+}
+
+.rof .sub-menu {
+  float: left;
+}
+
+.rof .sub-menu-1 {
+  float: right;
+}
+
+ /* kitcehen */
 .kit {
   background: linear-gradient(forestgreen, yellow, forestgreen);
 }
@@ -582,6 +595,19 @@
 }
 
 .kit .sub-menu-1 {
+  float: right;
+}
+
+  /* Restroom and Baths */
+.bat {
+  background: linear-gradient(lighblue, orange, yellow);
+}
+
+.bat .sub-menu {
+  float: left;
+}
+
+.bat .sub-menu-1 {
   float: right;
 }
 

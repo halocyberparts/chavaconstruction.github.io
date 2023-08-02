@@ -573,15 +573,15 @@
   }
    
   /* Roof & Patiio */
-.rof {
+.roof {
   background: linear-gradient(forestgreen, yellow, forestgreen);
 }
 
-.rof .sub-menu {
+.roof .sub-menu {
   float: left;
 }
 
-.rof .sub-menu-1 {
+.roof .sub-menu-1 {
   float: right;
 }
 

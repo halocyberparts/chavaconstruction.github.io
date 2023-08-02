@@ -678,7 +678,7 @@
     
   /* Windows and Doors */
 .win {
-  background: linear-gradient(violet,forestgreen, green);
+  background: linear-gradient(dodgerblue,forestgreen, green);
 }
 
 .win .sub-menu {

@@ -228,7 +228,8 @@
     color: white;
     justify-content: space-between;
     display: block;
-    margin: auto;
+    margin-right: 9px;
+    margin-left: 4px;
     text-decoration: none;
     font-size: 12px;
   }

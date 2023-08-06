@@ -223,16 +223,17 @@
     border-radius: 10px;
     float: right;
   }
-  
+
   .sub-menu a {
     color: white;
     justify-content: space-between;
     display: block;
-    margin-right: 9px;
-    margin-left: 4px;
+    margin-right: 5px;
+    margin-left: 15px;
     text-decoration: none;
+    margin-top: 1px;
     font-size: 12px;
-  }
+}
   
    .sub-menu-1 {
     width: 85%;

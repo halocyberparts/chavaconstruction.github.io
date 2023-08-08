@@ -472,6 +472,15 @@
             .primary-navigation {
                 padding-inline: clamp(1rem, 7vw, 2rem);
             }
+/*--------
+                  max-width: 100%;
+    display: block;
+    margin-left: 5px;
+    height: 60px;
+    margin-top: -55px;
+    margin-bottom: 300px;
+}
+              -----*/
           }
         
           @media (min-width: 35em) and (max-width: 44.999em) {

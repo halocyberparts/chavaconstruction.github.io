@@ -279,9 +279,10 @@
     margin: 0 3px;
     cursor: pointer;
   }
+
   .sliders{
     position: absolute;
-    top: 19%;
+    top: 50%;
     width: 45px;
     cursor: pointer;
     border: 2px solid gray;

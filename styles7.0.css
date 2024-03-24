@@ -303,7 +303,7 @@ h3 {
 /*-------top-small-header-end------*/
 /*----------Nav-start----------------------*/
 nav {
-  background-image: url('path/to/your/image.jpg');
+  background-image: url('./images/ Back Grounds/wooden-plank-textured-background-material.jpg');
   height: 120px;
   width: 100%;
   border-bottom: white 2px solid;
